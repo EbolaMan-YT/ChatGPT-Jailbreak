@@ -1,2 +1,2 @@
 ONLY WORKS ON GEMINI AND CLAUDE
-message2 works for deepseek
+deepseek prompt only works on arena.ai deepseek
